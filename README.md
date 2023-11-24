@@ -1,1 +1,1 @@
-# DC-bench-power-supply
+# Modular-DC-bench-power-supply
