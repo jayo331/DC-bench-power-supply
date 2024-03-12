@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "tl7660")(type "KiCad")(uri "${KIPRJMOD}/Components/TL7660/footprints.pretty")(options "")(descr ""))
+  (lib (name "3-794677-4")(type "KiCad")(uri "${KIPRJMOD}/Components/3-794677-4")(options "")(descr ""))
+  (lib (name "3-794677-6")(type "KiCad")(uri "${KIPRJMOD}/Components/3-794677-6")(options "")(descr ""))
+  (lib (name "AP64060WU")(type "KiCad")(uri "${KIPRJMOD}/Components/AP64060WU/footprints.pretty")(options "")(descr ""))
+)
