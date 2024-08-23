@@ -13,4 +13,4 @@ The regulators that i considered so far (without mod):
 | Cheap?          |Very inexpensive| Affordable   | Very expensive| Affordable    | Expensive     |
 | Easy to mod?    | Easy          | Easy          | Difficult     | Very easy     | Easy          |
 
-After some simulations, i ended up considering the discrete linear topology, which shows good results (maybe a little bit slow), however, to fully consider this solution further dynamic simulations are required.
+After some simulations, i ended up considering the discrete linear topology, which shows good results even in dynamic load. The main advantages of this solution are price and flexibility, also a good side effect is that since no mysterious pre-made ic are involved it should be easy to tweak in case of future updates.
