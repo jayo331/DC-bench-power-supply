@@ -14,3 +14,6 @@ The regulators that i considered so far (without mod):
 | Easy to mod?    | Easy          | Easy          | Difficult     | Very easy     | Easy          |
 
 After some simulations, i ended up considering the discrete linear topology, which shows good results even in dynamic load. The main advantages of this solution are price and flexibility, also a good side effect is that since no mysterious pre-made ic are involved it should be easy to tweak in case of future updates.
+
+![alt text](https://github.com/gggioe/Multichannel-bench-power-supply/blob/main/Simulations/Pictures/linear_stage.png)
+![alt text](https://github.com/gggioe/Multichannel-bench-power-supply/blob/main/Simulations/Pictures/linear_stage_waveform.png)
